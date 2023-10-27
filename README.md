@@ -1,3 +1,3 @@
 # ragetype
 
-Ragetype is a simple POSIX compliant program written in C for the gnu/linux operating system and similar Unix-linux systems.
+The program does not work by itself; it requires a POSIX-compliant text input.
