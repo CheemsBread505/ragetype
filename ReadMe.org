@@ -1,4 +1,4 @@
-=+#+TITLE: RageType
+#+TITLE: RageType
 #+AUTHOR: Cheems Bread
 #+DESKCRIPTION: The first org file I've ever made!!
 
