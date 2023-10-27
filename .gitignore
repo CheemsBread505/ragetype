@@ -1,9 +1,9 @@
 # ---> C
 # Prerequisites
 *.d
+src/main
 
 # Object files
-*.o
 *.ko
 *.obj
 *.elf
