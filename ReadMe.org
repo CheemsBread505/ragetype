@@ -1,0 +1,6 @@
+=+#+TITLE: RageType
+#+AUTHOR: Cheems Bread
+#+DESKCRIPTION: The first org file I've ever made!!
+
+* Info
+The program does not work by itself; it requires a POSIX-compliant text input.
