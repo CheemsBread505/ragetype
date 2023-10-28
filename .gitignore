@@ -2,6 +2,9 @@
 # Prerequisites
 *.d
 src/main
+/bin
+/obj
+ragetype
 
 # Object files
 *.ko
