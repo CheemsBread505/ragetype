@@ -4,7 +4,7 @@
 
 * Description
 
-RageType is a basic command-line program that reads text from standard input and randomly capitalizes or lowercases alphabetic characters. This can be a fun and playful way to transform text or just add a bit of randomness to your content.
+RageType is a basic command-line program that reads text from standard input and randomly capitalizes or lowercases alphabetic characters. This can be a fun and playful way to transform text or just add a bit of randomness to your messages.
 
 * Usage
 
@@ -15,7 +15,7 @@ To compile and use RageType, follow these steps:
 RageType is written in C and can be compiled using a C compiler, such as GCC. To compile the program, open a terminal and navigate to the directory containing the source code and the provided Makefile.
 
 #+BEGIN_SRC 
-/tmp
+cd /tmp
 git clone --branch=master --depth=1 https://git.cheemsbread.xyz/CheemsBread/ragetype.git
 cd ragetype
 make install
