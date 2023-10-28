@@ -10,12 +10,13 @@ RageType is a basic command-line program that reads text from standard input and
 
 To compile and use RageType, follow these steps:
 
-** Compilation
+* Compilation
 
 RageType is written in C and can be compiled using a C compiler, such as GCC. To compile the program, open a terminal and navigate to the directory containing the source code and the provided Makefile.
 
-```shell
-cd /tmp
+#+BEGIN_SRC 
+#+END_SRCcd /tmp
 git clone --branch=master --depth=1 https://git.cheemsbread.xyz/CheemsBread/ragetype.git
 cd ragetype
 make install
+#+END_SRC
