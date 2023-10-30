@@ -5,6 +5,7 @@ src/main
 /bin
 /obj
 ragetype
+musl-ragetype
 
 # Object files
 *.ko
