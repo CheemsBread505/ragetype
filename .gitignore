@@ -2,7 +2,7 @@
 # Prerequisites
 *.d
 src/main
-/bin
+#/bin
 /obj
 ragetype
 musl-ragetype
