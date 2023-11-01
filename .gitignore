@@ -2,10 +2,11 @@
 # Prerequisites
 *.d
 src/main
-#/bin
+/releases
 /obj
 ragetype
 musl-ragetype
+main
 
 # Object files
 *.ko
