@@ -6,6 +6,10 @@
 
 RageType is a basic command-line program that reads text from standard input and randomly capitalizes or lowercases alphabetic characters. This can be a fun and playful way to transform text or just add a bit of randomness to your messages.
 
+* For ArchLinux users:
+
+RageType is also a package on the arch user repository, found: [[https://aur.archlinux.org/packages/ragetype][here.]]
+
 * Usage
 
 To compile and use RageType, follow these steps:
